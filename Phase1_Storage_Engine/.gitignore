@@ -1,0 +1,17 @@
+
+
+# Build artifacts & compiled binaries
+build/
+bin/
+*.o
+*.out
+main
+
+# Database test files generated during runs
+*.db
+*.dat
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
