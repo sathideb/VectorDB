@@ -12,7 +12,7 @@ VectorDB is **under active development**. This repo is currently a **phase-wise 
 
 * Directory structure **changes frequently**
 * Expect work-in-progress code and rough edges
-* See **"system-thinking'** below for what I'm working on right now
+* See **"thinking-system'** below for what I'm working on right now
 
 ***
 
