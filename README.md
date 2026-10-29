@@ -23,8 +23,8 @@ VectorDB is **under active development**. This repo is currently a **phase-wise 
 * **Automated Testing Wall**: GoogleTest suite and Valgrind checks to catch regressions *(completed, extended as new modules land)*
 * **Binary Persistence**: dumping and recovering heap data through binary file I/O *(completed)*
 * **Memory-Mapped Persistent Storage**: `mmap`-based disk storage for fast reads and writes *(completed)*
-* **B+ Tree Indexing**: disk-based index with node splitting and Soft deletion *(in progress)*
-* **Concurrency with Optimistic Latch Crabbing**: thread-safe B+ Tree using read/write locks, mutexes and deadlock avoidance *(in progress)*
+* **B+ Tree Indexing**: disk-based index with node splitting and Soft deletion *(completed)*
+* **Concurrency with Optimistic Latch Crabbing**: thread-safe B+ Tree using read/write locks, mutexes and deadlock avoidance *(completed)*
 *  **Vector Math Engine**: optimized dot product and cosine similarity *(planned)*
 * **HNSW Graph Search**: approximate nearest-neighbour search over high-dimensional embeddings *(planned)*
 * **Embedding Pipeline**: Python + HuggingFace embeddings piped into the C++ engine *(planned)*
